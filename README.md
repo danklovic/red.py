@@ -2,6 +2,8 @@
 
 **This is a code for my developing bot, It's still in development, but anyways here's a short code of it I made earlier**
 
+STILL IN DEVELOPMENT, JUST A SHORT CODE, AS A TEST POST HERE
+
 Redpy Commands
 
 -> User Commands
